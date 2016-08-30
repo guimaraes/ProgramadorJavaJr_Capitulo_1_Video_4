@@ -1,0 +1,2 @@
+# ProgramadorJavaJr_Capitulo_1_Video_4
+Aprender a usar arrays pode ser um problema em qualquer linguagem. Isso porque envolve uma série de conceitos, sintaxe e outros. No Java, muitas vezes utilizamos outros recursos em vez de arrays, em especial os pacotes de coleções do Java, que veremos mais adiante. Portanto, fique tranquilo caso não consiga digerir toda sintaxe das arrays num primeiro momento.
